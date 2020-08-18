@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <declare-styleable name="custom_component_attributes">
+        <attr name="text_warning" format="string" />
+        <attr name="show_warning" format="boolean" />
+        <attr name="warning_text_size" format="dimension"/>
+    </declare-styleable>
+</resources>
